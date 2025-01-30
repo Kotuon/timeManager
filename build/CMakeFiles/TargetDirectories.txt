@@ -1,0 +1,3 @@
+C:/Users/Kelson/Documents/Projects/timeManager/build/CMakeFiles/timeManager.dir
+C:/Users/Kelson/Documents/Projects/timeManager/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Kelson/Documents/Projects/timeManager/build/CMakeFiles/ZERO_CHECK.dir
