@@ -1,6 +1,6 @@
 
-#ifndef TIMEMANAGER_HPP
-#define TIMEMANAGER_HPP
+#ifndef TIME_MANAGER_HPP
+#define TIME_MANAGER_HPP
 #pragma once
 
 #include <chrono>
