@@ -19,8 +19,10 @@ void TimeManager::update() {
 bool TimeManager::needsFixedUpdate() {
     const bool result = Accumulator >= FixedDt;
 
-    Accumulator -= FixedDt;
-    Time += FixedDt;
+    if ( result ) {
+        Accumulator -= FixedDt;
+        Time += FixedDt;
+    }
 
     return result;
 }

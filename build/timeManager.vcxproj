@@ -269,7 +269,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\Kelson\Documents\Projects\timeManager\src\timeManager.cpp" />
+    <ClCompile Include="C:\Users\Kelson\Documents\Projects\timeManager\src\time_manager.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\Kelson\Documents\Projects\timeManager\build\ZERO_CHECK.vcxproj">
